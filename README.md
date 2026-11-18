@@ -50,18 +50,6 @@ npm run build      # verifikasi build produksi
 npm run db:seed    # seed Supabase (idempoten)
 ```
 
-## Akun demo
-
-| Peran | Username | Password |
-| --- | --- | --- |
-| Admin bimbel | `admin` | `admin123` |
-| Tutor Kelas 6 | `tutor` | `tutor123` |
-| Tutor tanpa kelas | `tutor2` | `tutor123` |
-| Siswa Kelas 6 | `6001`–`6008` | `siswa123` |
-
-Akun di atas dibuat oleh `npm run db:seed` pada mode Supabase, dan sudah
-tersedia otomatis pada mode demo.
-
 ## Stack
 
 Next.js 15 (App Router) · React 19 · TypeScript · Tailwind CSS v4 ·
