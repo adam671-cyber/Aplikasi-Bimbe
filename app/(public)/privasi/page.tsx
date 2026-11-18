@@ -98,7 +98,7 @@ export default function PrivacyPage() {
           <p className="mt-1.5">
             Pertanyaan tentang privasi dapat disampaikan ke admin bimbel melalui
             WhatsApp <span className="font-semibold">0812-3456-7890</span> atau
-            email <span className="font-semibold">halo@tkaceras.id</span>.
+            email <span className="font-semibold">halo@bimbelstarkids.id</span>.
           </p>
         </section>
       </div>

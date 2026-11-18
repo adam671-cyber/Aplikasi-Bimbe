@@ -61,15 +61,15 @@ export function PublicFooter() {
             Kontak
           </p>
           <ul className="mt-3 space-y-2 text-[13px] text-slate-600">
-            <li>Bimbel Cerdas Nusantara</li>
+            <li>BIMBEL STAR KIDS</li>
             <li>WhatsApp 0812-3456-7890</li>
-            <li>halo@tkaceras.id</li>
+            <li>halo@bimbelstarkids.id</li>
           </ul>
         </div>
       </div>
       <div className="border-t border-slate-100">
         <div className="mx-auto flex w-full max-w-6xl flex-col gap-2 px-4 py-4 text-[11px] text-slate-400 sm:flex-row sm:items-center sm:justify-between sm:px-6 lg:px-8">
-          <p>© 2026 Bimbel Cerdas Nusantara. Hak cipta dilindungi.</p>
+          <p>© 2026 BIMBEL STAR KIDS. Hak cipta dilindungi.</p>
           <p>Tidak ada iklan. Fokus belajar, tanpa gangguan.</p>
         </div>
       </div>

@@ -6,7 +6,6 @@ import {
   CheckCircle2,
   Clock3,
   Cloud,
-  GraduationCap,
   ShieldCheck,
 } from "lucide-react";
 import { Logo } from "@/components/logo";
@@ -41,17 +40,7 @@ export default async function LoginPage({
         />
 
         <div className="relative">
-          <Link href="/" className="inline-flex items-center gap-2.5">
-            <span className="grid h-9 w-9 place-items-center rounded-xl bg-white/10 text-white ring-1 ring-inset ring-white/20">
-              <GraduationCap className="h-5 w-5" />
-            </span>
-            <span className="leading-tight">
-              <span className="block font-display text-[15px] font-bold">TKA Cerdas</span>
-              <span className="block text-[10px] uppercase tracking-widest text-slate-400">
-                Bimbel Cerdas Nusantara
-              </span>
-            </span>
-          </Link>
+          <Logo href="/" variant="dark" />
         </div>
 
         <div className="relative my-auto max-w-md py-10">

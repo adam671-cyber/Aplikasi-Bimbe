@@ -1,7 +1,7 @@
 # Deployment — Supabase + Vercel
 
 Panduan ini menjelaskan cara menyiapkan database, autentikasi, dan deploy
-TKA Cerdas ke Vercel.
+BIMBEL STAR KIDS ke Vercel.
 
 Ada dua mode:
 

@@ -1,4 +1,4 @@
-# TKA Cerdas
+# BIMBEL STAR KIDS
 
 Aplikasi simulasi TKA (Tes Kemampuan Akademik) untuk siswa kelas 6 SD/MI,
 dibuat untuk kebutuhan bimbel. Mobile-first, berbahasa Indonesia, tanpa iklan.

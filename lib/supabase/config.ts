@@ -31,7 +31,7 @@ export function getSupabaseConfig(): SupabaseConfig | null {
         .filter(Boolean)
         .join(", ");
       console.warn(
-        `[TKA Cerdas] Konfigurasi Supabase belum lengkap (kurang: ${missing}). ` +
+        `[BIMBEL STAR KIDS] Konfigurasi Supabase belum lengkap (kurang: ${missing}). ` +
           "Aplikasi memakai data demo in-memory; isi ketiga variabel untuk mengaktifkan Supabase."
       );
     }

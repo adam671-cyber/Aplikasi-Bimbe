@@ -1624,8 +1624,8 @@ export function createSeedData(): StoreData {
     packages,
     attempts,
     settings: {
-      appName: "TKA Cerdas",
-      bimbelName: "Bimbel Cerdas Nusantara",
+      appName: "BIMBEL STAR KIDS",
+      bimbelName: "BIMBEL STAR KIDS",
       academicYear: "2026/2027",
       contactWhatsapp: "0812-3456-7890",
       heroTitle: "Simulasi TKA Kelas 6 SD/MI",

@@ -1,11 +1,11 @@
-# Arsitektur TKA Cerdas
+# Arsitektur BIMBEL STAR KIDS
 
-Dokumen ini menjelaskan struktur aplikasi MVP TKA Cerdas, batas antar-lapisan,
+Dokumen ini menjelaskan struktur aplikasi MVP BIMBEL STAR KIDS, batas antar-lapisan,
 dan cara kerja integrasi Supabase (Auth + PostgreSQL) untuk produksi.
 
 ## 1. Ringkasan
 
-TKA Cerdas adalah simulasi TKA untuk siswa kelas 6 SD/MI. Aplikasi mobile-first
+BIMBEL STAR KIDS adalah simulasi TKA untuk siswa kelas 6 SD/MI. Aplikasi mobile-first
 dengan tiga peran:
 
 | Peran | Kebutuhan utama |

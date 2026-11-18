@@ -52,7 +52,7 @@ export default function GuidePage() {
         Panduan singkat
       </Badge>
       <h1 className="mt-3 font-display text-3xl font-bold text-slate-900">
-        Panduan penggunaan TKA Cerdas
+        Panduan penggunaan BIMBEL STAR KIDS
       </h1>
       <p className="mt-2 max-w-2xl text-[13px] leading-6 text-slate-500">
         Panduan ini dibuat singkat agar siswa, tutor, dan admin bisa langsung

@@ -1,5 +1,5 @@
 /**
- * Seed Supabase untuk TKA Cerdas.
+ * Seed Supabase untuk BIMBEL STAR KIDS.
  *
  * Jalankan setelah `supabase/schema.sql` dieksekusi pada SQL Editor:
  *
@@ -95,7 +95,7 @@ async function listAuthUsers() {
 }
 
 async function main() {
-  console.log("→ Menyiapkan data seed TKA Cerdas…");
+  console.log("→ Menyiapkan data seed BIMBEL STAR KIDS…");
   const data = createSeedData();
   const resetPasswords = process.env.SEED_RESET_PASSWORDS === "1";
 

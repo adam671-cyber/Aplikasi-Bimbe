@@ -1,5 +1,5 @@
 -- =============================================================================
--- TKA Cerdas — Skema PostgreSQL untuk Supabase
+-- BIMBEL STAR KIDS — Skema PostgreSQL untuk Supabase
 -- =============================================================================
 -- Jalankan file ini pada SQL Editor Supabase setelah project dibuat.
 -- Asumsi: Supabase Auth dipakai untuk login, sehingga tabel `profiles`

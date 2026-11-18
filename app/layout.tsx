@@ -4,12 +4,12 @@ import "./globals.css";
 
 export const metadata: Metadata = {
   title: {
-    default: "TKA Cerdas — Simulasi TKA Kelas 6 SD/MI",
-    template: "%s · TKA Cerdas",
+    default: "BIMBEL STAR KIDS — Simulasi TKA Kelas 6 SD/MI",
+    template: "%s · BIMBEL STAR KIDS",
   },
   description:
     "Aplikasi latihan dan tryout TKA untuk siswa kelas 6 SD/MI: timer, autosave, pembahasan, dan analisis hasil.",
-  applicationName: "TKA Cerdas",
+  applicationName: "BIMBEL STAR KIDS",
 };
 
 export const viewport: Viewport = {

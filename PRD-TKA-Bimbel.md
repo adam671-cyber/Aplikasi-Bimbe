@@ -1,6 +1,6 @@
 # PRD (RPD) — Aplikasi Simulasi TKA Kelas 6 SD
 
-**Nama produk (sementara):** TKA Cerdas  
+**Nama produk (sementara):** BIMBEL STAR KIDS  
 **Untuk:** Bimbel [Nama Bimbel]  
 **Versi dokumen:** 0.1 (Draft)  
 **Tanggal:** 16 November 2026  
@@ -13,14 +13,14 @@
 
 ## 1. Ringkasan Eksekutif
 
-TKA Cerdas adalah aplikasi web untuk siswa kelas 6 SD/MI yang mengikuti bimbingan belajar, digunakan untuk:
+BIMBEL STAR KIDS adalah aplikasi web untuk siswa kelas 6 SD/MI yang mengikuti bimbingan belajar, digunakan untuk:
 
 1. **Latihan soal** per mata pelajaran dan topik.
 2. **Tryout simulasi TKA** dengan durasi, navigasi soal, dan penilaian otomatis.
 3. **Melihat hasil, pembahasan, dan analisis kemampuan** per topik dan level kognitif.
 4. **Membantu tutor/admin bimbel** memantau perkembangan siswa, mengelola bank soal, dan membuat laporan.
 
-Berbeda dari referensi yang masih statis (satu halaman HTML per paket, jawaban hilang saat refresh, tanpa akun siswa), TKA Cerdas dirancang sebagai aplikasi **multi-user** dengan **database siswa bimbel**, **autosave**, **timer server-side**, dan **dashboard tutor**.
+Berbeda dari referensi yang masih statis (satu halaman HTML per paket, jawaban hilang saat refresh, tanpa akun siswa), BIMBEL STAR KIDS dirancang sebagai aplikasi **multi-user** dengan **database siswa bimbel**, **autosave**, **timer server-side**, dan **dashboard tutor**.
 
 Stack utama: **Next.js (App Router) + TypeScript + Tailwind CSS + Prisma + PostgreSQL**, dengan HTML/CSS/JS sebagai fondasi antarmuka. Aplikasi bersifat **mobile-first** karena mayoritas siswa akan mengakses lewat HP.
 
@@ -888,7 +888,7 @@ sequenceDiagram
 
 ```
 ┌─────────────────────────────────────────────┐
-│ Logo TKA Cerdas              [Masuk]        │
+│ Logo BIMBEL STAR KIDS              [Masuk]        │
 ├─────────────────────────────────────────────┤
 │                                             │
 │        Simulasi TKA Kelas 6 SD/MI           │
@@ -1133,7 +1133,7 @@ Perlu keputusan sebelum implementasi:
 
 ### 19.1 Perbandingan dengan referensi
 
-| Aspek | Referensi (`sd.onedumind.com`) | TKA Cerdas (rencana) |
+| Aspek | Referensi (`sd.onedumind.com`) | BIMBEL STAR KIDS (rencana) |
 |---|---|---|
 | Akun siswa | Tidak ada | Ada, terhubung ke kelas bimbel |
 | Data hasil | Dikirim ke API pihak ketiga | Tersimpan di database bimbel |
